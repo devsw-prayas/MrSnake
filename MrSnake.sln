@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrSnake", "MrSnake\MrSnake.csproj", "{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SnakePython", "SnakePython\SnakePython.pyproj", "{74436794-C336-4F57-9A50-0F3F2D8CEC15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Debug|x64.ActiveCfg = Debug|x64
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Debug|x64.Build.0 = Debug|x64
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Release|x64.ActiveCfg = Release|x64
+		{5DC4BED5-94DF-4D0F-A290-B5F4482787B0}.Release|x64.Build.0 = Release|x64
+		{74436794-C336-4F57-9A50-0F3F2D8CEC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74436794-C336-4F57-9A50-0F3F2D8CEC15}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{74436794-C336-4F57-9A50-0F3F2D8CEC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74436794-C336-4F57-9A50-0F3F2D8CEC15}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F1F099-7251-4750-91B4-E8652C5F26AD}
+	EndGlobalSection
+EndGlobal
